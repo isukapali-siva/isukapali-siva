@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Current Endeavor**: Technical Specialist @ **Zensar** (Client: Assurant)
+- 💼 **Current Endeavor**: Technical Specialist @ **Zensar**
 - 🚀 **Specialization**: Translating complex business needs into scalable technical strategies using **Guidewire APD**, **Integration Gateway**, and **CloudAPI**.
 - 💡 **Passionate about**: AI-assisted development, high-performance architecture, and robust Gosu business logic.
 - 🎓 **Education**: B.Tech in Electronics & Communication Engineering (75%).
